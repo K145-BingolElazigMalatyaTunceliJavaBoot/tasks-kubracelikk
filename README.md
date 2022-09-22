@@ -1,2 +1,2 @@
-# tasks-kubracelikk
-tasks-kubracelikk created by GitHub Classroom
+K145-BingolElazigMalatyaTunceliJavaBootcamp ödevleri
+
